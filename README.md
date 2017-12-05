@@ -8,10 +8,11 @@
 简单来说，mqtt是一种用于消息推送的协议。相比较其他第三方消息推送，如环信，友盟，极光等等，mqtt可以自定义部署，减少了很多限制。以前也用过谷歌的推送服务，叫Goole Cloud Messaging，但是我大天朝局域网就别想了，如果没有vpn，那用用谷歌翻译就行了。
 
 ### 界面截图
-
-<img width="300" height="533" src="https://github.com/zhangxiaofan918/MqttAndroidClient/blob/master/Images/device-2017-12-05-165743.png"/>
-<img width="300" height="533" src="https://github.com/zhangxiaofan918/MqttAndroidClient/blob/master/Images/device-2017-12-05-165823.png"/>
-<img width="300" height="533" src="https://github.com/zhangxiaofan918/MqttAndroidClient/blob/master/Images/device-2017-12-05-165758.png"/>
+<figure class="half">
+    <a href="https://github.com/zhangxiaofan918/MqttAndroidClient/blob/master/Images/device-2017-12-05-165743.png"><img width="200" height="355" src="https://github.com/zhangxiaofan918/MqttAndroidClient/blob/master/Images/device-2017-12-05-165743.png"></a>
+    <a href="https://github.com/zhangxiaofan918/MqttAndroidClient/blob/master/Images/device-2017-12-05-165823.png"><img width="200" height="355" src="https://github.com/zhangxiaofan918/MqttAndroidClient/blob/master/Images/device-2017-12-05-165823.png"></a>
+     <a href="https://github.com/zhangxiaofan918/MqttAndroidClient/blob/master/Images/device-2017-12-05-165758.png"><img width="200" height="355" src="https://github.com/zhangxiaofan918/MqttAndroidClient/blob/master/Images/device-2017-12-05-165758.png"></a>
+</figure>
 
 ### 环境
 `服务器`：使用mqtt.jar[点击下载](https://repo.eclipse.org/content/repositories/paho/org/eclipse/paho/mqtt-client/0.4.0/)，集成相关代码后模拟发布消息到服务器
