@@ -1,4 +1,4 @@
-# MqttAndroidClient
+# MqttAndroidClientTest
 基于MQTT协议测试的消息推送
 
 [MQTT协议中文版](https://github.com/mcxiaoke/mqtt)
